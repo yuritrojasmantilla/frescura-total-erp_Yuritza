@@ -102,7 +102,7 @@ Estas cuentas se usan en el inicio de sesión del ERP. La conexión JDBC utiliza
 Reemplazar `TU_USUARIO` por el nombre de la cuenta de GitHub donde se publique el proyecto:
 
 ```bash
-git clone https://github.com/TU_USUARIO/frescura-total-erp.git
+git clone https://github.com/yuritrojasmantilla/frescura-total-erp_Yuritza.git
 cd frescura-total-erp
 ```
 
