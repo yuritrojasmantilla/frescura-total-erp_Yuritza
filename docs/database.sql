@@ -1,4 +1,4 @@
--- *** Script Proyecto ERP Frescura Total **
+-- *** Script Completo del Proyecto ERP Frescura Total **
 
 CREATE DATABASE IF NOT EXISTS erp_frescura_total
 CHARACTER SET utf8mb4
